@@ -14,18 +14,18 @@ This project aims to serve as a starting point for developers looking to impleme
 
 
 ## Table Of Contents
- - [Installation](https://github.com/abhisheksingh-17/Stripe-Payment#installation)
- - [Usage](https://github.com/abhisheksingh-17/Stripe-Payment#usage)
- - [Acknowledgements](https://github.com/abhisheksingh-17/Stripe-Payment#acknowledgements)
- - [Technologies Used](https://github.com/abhisheksingh-17/Stripe-Payment#technologies-used)
- - [Code Explanation](https://github.com/abhisheksingh-17/Stripe-Payment#code-explanation)
- - [Screenshots](https://github.com/abhisheksingh-17/Stripe-Payment#screenshots)
- - [Future Scope](https://github.com/abhisheksingh-17/Stripe-Payment#future-scope)
- - [Contributing](https://github.com/abhisheksingh-17/Stripe-Payment#contributing)
- - [License](https://github.com/abhisheksingh-17/Stripe-Payment#license)
+ - [Installation](https://github.com/soninishank/Stripe-Payment#installation)
+ - [Usage](https://github.com/soninishank/Stripe-Payment#usage)
+ - [Acknowledgements](https://github.com/soninishank/Stripe-Payment#acknowledgements)
+ - [Technologies Used](https://github.com/soninishank/Stripe-Payment#technologies-used)
+ - [Code Explanation](https://github.com/soninishank/Stripe-Payment#code-explanation)
+ - [Screenshots](https://github.com/soninishank/Stripe-Payment#screenshots)
+ - [Future Scope](https://github.com/soninishank/Stripe-Payment#future-scope)
+ - [Contributing](https://github.com/soninishank/Stripe-Payment#contributing)
+ - [License](https://github.com/soninishank/Stripe-Payment#license)
 ## Installation
 
-**1.Clone the repository or download the source code-** https://github.com/abhisheksingh-17/Stripe-Payment.git
+**1.Clone the repository or download the source code-** https://github.com/soninishank/Stripe-Payment.git
 
 **2.Create and activate a virtual environment (optional, but recommended):**
 
@@ -179,29 +179,29 @@ The code begins by importing the necessary modules: stripe for interacting with 
 
  - Home Page-
 
-![](https://github.com/abhisheksingh-17/Stripe-Payment/blob/main/Results/1.png?raw=true)
+![](https://github.com/soninishank/Stripe-Payment/blob/main/Results/1.png?raw=true)
 
 
  - Checkout Page-
 
-![](https://github.com/abhisheksingh-17/Stripe-Payment/blob/main/Results/2.png?raw=true)
+![](https://github.com/soninishank/Stripe-Payment/blob/main/Results/2.png?raw=true)
 
-![](https://github.com/abhisheksingh-17/Stripe-Payment/blob/main/Results/4.png?raw=true)
+![](https://github.com/soninishank/Stripe-Payment/blob/main/Results/4.png?raw=true)
 
 
  - Payment Successful Page-
 
-![](https://github.com/abhisheksingh-17/Stripe-Payment/blob/main/Results/6.png?raw=true)
+![](https://github.com/soninishank/Stripe-Payment/blob/main/Results/6.png?raw=true)
 
 
  - Payment Failed Page-
 
-![](https://github.com/abhisheksingh-17/Stripe-Payment/blob/main/Results/7.png?raw=true)
+![](https://github.com/soninishank/Stripe-Payment/blob/main/Results/7.png?raw=true)
 
 
  - Payment Dashboard-
  
-![](https://github.com/abhisheksingh-17/Stripe-Payment/blob/main/Results/8.png?raw=true)
+![](https://github.com/soninishank/Stripe-Payment/blob/main/Results/8.png?raw=true)
 ## Future Scope
 The "Stripe Payment" project provides a solid foundation for a subscription-based payment system. Here are some potential areas for future enhancement and expansion:
 

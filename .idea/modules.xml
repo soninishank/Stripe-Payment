@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Stripe-Payment-main.iml" filepath="$PROJECT_DIR$/.idea/Stripe-Payment-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Stripe-Payment/.idea/Stripe-Payment.iml" filepath="$PROJECT_DIR$/../Stripe-Payment/.idea/Stripe-Payment.iml" />
     </modules>
   </component>
 </project>
