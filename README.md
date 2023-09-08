@@ -234,26 +234,5 @@ Extend support for multiple languages and currencies to make the application mor
 
  - Automated Testing-
 Implement automated testing to ensure the application's robustness and prevent regressions.
-## Contributing
-
-Contributions to the "Stripe Payment" project are welcome and encouraged! If you have any ideas, bug fixes, or enhancements, please follow these steps:
-
- - Fork the repository on GitHub.
-
- - Create a new branch for your feature or bug fix: git checkout -b my-feature.
-
- - Make your changes, commit them, and push the changes to your forked repository.
-
- - Submit a pull request to the main branch of the original repository.
-
- - Your pull request will be reviewed by the maintainers, and any necessary feedback will be provided.
-
- - Once your pull request is approved, it will be merged into the main branch.
-
-Thank you for your contributions!
 
 
-
-## License
-
-The "Stripe Payment" project is licensed under the MIT License. See the LICENSE file for more details.
